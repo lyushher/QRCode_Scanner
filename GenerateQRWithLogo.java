@@ -11,6 +11,7 @@ import com.google.zxing.common.BitMatrix;
 
 import javax.imageio.ImageIO;
 
+
 public class GenerateQRWithLogo {
  
     public static void main(String[] args) throws Exception {
